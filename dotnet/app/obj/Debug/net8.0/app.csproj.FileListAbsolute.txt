@@ -12,3 +12,4 @@
 /home/masv/AlgoritmosExercicios/dotnet/app/obj/Debug/net8.0/app.pdb
 /home/masv/AlgoritmosExercicios/dotnet/app/obj/Debug/net8.0/app.genruntimeconfig.cache
 /home/masv/AlgoritmosExercicios/dotnet/app/obj/Debug/net8.0/ref/app.dll
+/home/masv/AlgoritmosExercicios/dotnet/app/obj/Debug/net8.0/app.sourcelink.json

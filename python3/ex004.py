@@ -1,0 +1,10 @@
+a = input("Digite algo ")
+
+print(F"O tipo primitivo desse valor é {type(a)}")
+print(F"So tem espaços? {a.isspace()}")
+print(F"È numerico? {a.isnumeric()}")
+print(F"È alfabetico? {a.isalpha()}")
+print(F"È alfanumerico? {a.isalnum()}")
+print(F"esta em maiuscula? {a.isupper()}")
+print(F"esta em minuscula? {a.islower()}")
+print(F"È capitalizada? {a.istitle()}")
