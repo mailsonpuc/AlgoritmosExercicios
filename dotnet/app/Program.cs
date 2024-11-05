@@ -20,5 +20,16 @@
 // ex006 ex6 = new ex006();
 // ex6.DobroTriploEraiz();
 
-ex007 ex7 = new ex007();
-ex7.NotaDoAluno();
+// ex007 ex7 = new ex007();
+// ex7.NotaDoAluno();
+
+// ex008 ex8 = new ex008();
+// ex8.Medida();
+
+
+// ex009 ex9 = new ex009();
+// ex9.Tabuada();
+
+
+ex010 ex10 = new ex010();
+ex10.RealToDolar();
