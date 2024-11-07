@@ -31,5 +31,17 @@
 // ex9.Tabuada();
 
 
-ex010 ex10 = new ex010();
-ex10.RealToDolar();
+// ex010 ex10 = new ex010();
+// ex10.RealToDolar();
+
+// ex011 ex11 = new ex011();
+// ex11.PintaParede();
+
+// ex012 ex12 = new ex012();
+// ex12.Promocao();
+
+// ex013 ex13 = new ex013();
+// ex13.AumentoSalario();
+
+ex014 ex14 = new ex014();
+ex14.CelciosParaF();
