@@ -43,5 +43,14 @@
 // ex013 ex13 = new ex013();
 // ex13.AumentoSalario();
 
-ex014 ex14 = new ex014();
-ex14.CelciosParaF();
+// ex014 ex14 = new ex014();
+// ex14.CelciosParaF();
+
+// ex015 ex15 = new ex015();
+// ex15.AluguelDeCarro();
+
+// ex016 ex16 = new ex016();
+// ex16.ConvertFloatToInte();
+
+ex017 ex17 = new ex017();
+ex17.Hipotenusa();
