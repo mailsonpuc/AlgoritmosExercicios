@@ -52,5 +52,13 @@
 // ex016 ex16 = new ex016();
 // ex16.ConvertFloatToInte();
 
-ex017 ex17 = new ex017();
-ex17.Hipotenusa();
+// ex017 ex17 = new ex017();
+// ex17.Hipotenusa();
+
+
+// ex018 ex18 = new ex018();
+// ex18.CalculadoraTrigonometrica();
+ 
+ex019 ex19 = new ex019();
+ex19.EscolherAluno();
+ 
