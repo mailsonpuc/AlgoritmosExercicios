@@ -59,6 +59,11 @@
 // ex018 ex18 = new ex018();
 // ex18.CalculadoraTrigonometrica();
  
-ex019 ex19 = new ex019();
-ex19.EscolherAluno();
+// ex019 ex19 = new ex019();
+// ex19.EscolherAluno();
  
+//  ex020 ex20 = new ex020();
+//  ex20.OrdemDeapresentacao();
+
+ex021 ex21 = new ex021();
+ex21.TocaMusica();
