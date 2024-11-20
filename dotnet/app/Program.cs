@@ -65,5 +65,8 @@
 //  ex020 ex20 = new ex020();
 //  ex20.OrdemDeapresentacao();
 
-ex021 ex21 = new ex021();
-ex21.TocaMusica();
+// ex021 ex21 = new ex021();
+// ex21.TocaMusica();
+
+ex022 ex22 = new ex022();
+ex22.NomeDePessoa();
