@@ -4,3 +4,14 @@ obj/
 .vscode/
 .config/
 
+
+# Diretórios gerados pela compilação de rust
+target/
+/build/
+
+# Arquivos de configuração local
+.vscode/
+.idea/
+
+# Arquivos de cache
+.cargo/
