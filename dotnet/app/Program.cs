@@ -1,5 +1,7 @@
 ﻿using app.Models;
 
+Console.Clear();
+
 // ex001 fala = new ex001();
 // fala.Frase = "Ola Mundo";
 // fala.Falar();
@@ -68,5 +70,17 @@
 // ex021 ex21 = new ex021();
 // ex21.TocaMusica();
 
-ex022 ex22 = new ex022();
-ex22.NomeDePessoa();
+// ex022 ex22 = new ex022();
+// ex22.NomeDePessoa();
+
+// ex023 ex23 = new ex023();
+// ex23.UnidadeDezenaCentena();
+
+// ex024 ex24 = new ex024();
+// Console.WriteLine(ex24.VerificarPalavra());
+
+// ex025 ex25 = new ex025();
+// ex25.TemSilvaNoNome();
+
+ex026 ex26 = new ex026();
+ex26.FraseLettraA();
