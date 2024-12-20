@@ -82,5 +82,23 @@ Console.Clear();
 // ex025 ex25 = new ex025();
 // ex25.TemSilvaNoNome();
 
-ex026 ex26 = new ex026();
-ex26.FraseLettraA();
+// ex026 ex26 = new ex026();
+// ex26.FraseLettraA();
+
+// ex027 ex27 = new ex027();
+// ex27.PrimeiroEultimoNome();
+
+// ex028 ex28 = new ex028();
+// ex28.JogoAdivinha();
+
+// ex029 ex29 = new ex029();
+// ex29.MultaDeVelocidade();
+
+// ex030 ex30 = new ex030();
+// ex30.ParOuImpar();
+
+// ex031 ex31 = new ex031();
+// ex31.PrecoDeViagem();
+
+ex032 ex32 = new ex032();
+ex32.anoBissexto();
