@@ -60,10 +60,10 @@ Console.Clear();
 
 // ex018 ex18 = new ex018();
 // ex18.CalculadoraTrigonometrica();
- 
+
 // ex019 ex19 = new ex019();
 // ex19.EscolherAluno();
- 
+
 //  ex020 ex20 = new ex020();
 //  ex20.OrdemDeapresentacao();
 
@@ -100,5 +100,27 @@ Console.Clear();
 // ex031 ex31 = new ex031();
 // ex31.PrecoDeViagem();
 
-ex032 ex32 = new ex032();
-ex32.anoBissexto();
+// ex032 ex32 = new ex032();
+// ex32.anoBissexto();
+
+// ex033 ex33 = new ex033();
+// ex33.MaiorEmenorValor();
+
+// ex034 ex34 = new ex034();
+// ex34.AumentoSalario();
+
+// ex035 ex35 = new ex035();
+// ex35.Triangulo();
+
+// ex036 ex36 = new ex036();
+// ex36.AprovandoEmprestimos();
+
+
+// ex037 ex37 = new ex037();
+// ex37.ConversoBaseNumerica();
+
+// ex038 ex38 = new ex038();
+// ex38.ComparandoNumeros();
+
+ex039 ex39 = new ex039();
+ex39.AlistamentoMilitar();
