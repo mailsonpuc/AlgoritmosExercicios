@@ -122,5 +122,14 @@ Console.Clear();
 // ex038 ex38 = new ex038();
 // ex38.ComparandoNumeros();
 
-ex039 ex39 = new ex039();
-ex39.AlistamentoMilitar();
+// ex039 ex39 = new ex039();
+// ex39.AlistamentoMilitar();
+
+// ex040 ex40 = new ex040();
+// ex40.MediaDeNota();
+
+// ex042 ex42 = new ex042();
+// ex42.Triangulo();
+
+ex043 ex43 = new ex043();
+ex43.CalcularImc();
