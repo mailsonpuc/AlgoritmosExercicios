@@ -131,5 +131,26 @@ Console.Clear();
 // ex042 ex42 = new ex042();
 // ex42.Triangulo();
 
-ex043 ex43 = new ex043();
-ex43.CalcularImc();
+// ex043 ex43 = new ex043();
+// ex43.CalcularImc();
+
+// ex044 ex44 = new ex044();
+// ex44.GerenciadoDePagamento();
+
+// ex045 ex45 = new ex045();
+// ex45.PedraPapalEtesoura();
+
+// ex046 ex46 = new ex046();
+// ex46.Contagem();
+
+// ex047 ex47 = new ex047();
+// ex47.ComtagemDePares();
+
+// ex048 ex48 = new ex048();
+// ex48.SomaDeMultiplosDe3();
+
+// ex049 ex49 = new ex049();
+// ex49.TabuadaV2();
+
+ex050 ex50 = new ex050();
+ex50.SomaDosPares();
