@@ -152,5 +152,20 @@ Console.Clear();
 // ex049 ex49 = new ex049();
 // ex49.TabuadaV2();
 
-ex050 ex50 = new ex050();
-ex50.SomaDosPares();
+// ex050 ex50 = new ex050();
+// ex50.SomaDosPares();
+
+// ex051 ex51 = new ex051();
+// ex51.AritmeticaPA();
+
+// ex052 ex52 = new ex052();
+// ex52.NumeroPrimo();
+
+// ex053 ex53 = new ex053();
+// ex53.Polindromo();
+
+// ex054 ex54 = new ex054();
+// ex54.GrupoDeMaioridade();
+
+ex055 ex55 = new ex055();
+ex55.MaieEmenorDaSequencia();
