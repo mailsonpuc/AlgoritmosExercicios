@@ -167,5 +167,19 @@ Console.Clear();
 // ex054 ex54 = new ex054();
 // ex54.GrupoDeMaioridade();
 
-ex055 ex55 = new ex055();
-ex55.MaieEmenorDaSequencia();
+// ex055 ex55 = new ex055();
+// ex55.MaieEmenorDaSequencia();
+
+// ex056 ex56 = new ex056();
+// ex56.AnalisadorCompleto();
+
+// ex057 ex57 = new ex057();
+// ex57.ValidacaoDeDados();
+
+// ex058 ex58 = new ex058();
+// ex58.JogoDeAdivinhacao();
+
+// ex059 ex59 = new ex059();
+// ex59.Menu();
+ex060 ex60 = new ex060();
+ex60.CalculoFatorial();
