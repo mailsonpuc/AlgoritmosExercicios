@@ -181,5 +181,43 @@ Console.Clear();
 
 // ex059 ex59 = new ex059();
 // ex59.Menu();
-ex060 ex60 = new ex060();
-ex60.CalculoFatorial();
+// ex060 ex60 = new ex060();
+// ex60.CalculoFatorial();
+
+// ex061 ex61 = new ex061();
+// ex61.ProgrecaoAritmetica();
+
+// ex062 ex62 = new ex062();
+// ex62.GeradorDePA2();
+
+// ex063 ex63 = new ex063();
+// ex63.SequenciaDeFibonacci();
+
+// ex064 ex64  = new ex064();
+// ex64.TratandoVariosValores();
+
+// ex065 ex65 = new ex065();
+// ex65.maiorEmeno2();
+
+// ex066 ex66 = new ex066();
+// ex66.VariosNumerosComFlag();
+
+// ex067 ex67 = new ex067();
+// ex67.TabuadaDeQualqueValor();
+
+// ex068 ex68 = new ex068();
+// ex68.JogoDoParOuImopar();
+
+// ex069 ex69 = new ex069();
+// ex69.AnaliseDeDadosDeGrupo();
+
+// ex070 ex70 = new ex070();
+// ex70.EstatisticaEmProduto();
+
+// ex071 ex71 = new ex071();
+// ex71.SimuladorDeCaixaEletronico();
+// ex072 ex72 = new ex072();
+// ex72.NumeroPorExtenso();
+
+ex073 ex73 = new ex073();
+ex73.listaComTimesDeFutebol();
