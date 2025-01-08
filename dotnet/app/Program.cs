@@ -225,5 +225,11 @@ Console.Clear();
 // ex074 ex74 = new ex074();
 // ex74.MairEmenorValorEmLista();
 
-ex075 ex75 = new ex075();
-ex75.AnaliseDeDadosEmLista();
+// ex075 ex75 = new ex075();
+// ex75.AnaliseDeDadosEmLista();
+
+// ex076 ex76 = new ex076();
+// ex76.listadePrecoComTupla();
+
+ex077 ex77 = new ex077();
+ex77.ContandoVogais();
