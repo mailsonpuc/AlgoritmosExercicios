@@ -219,5 +219,11 @@ Console.Clear();
 // ex072 ex72 = new ex072();
 // ex72.NumeroPorExtenso();
 
-ex073 ex73 = new ex073();
-ex73.listaComTimesDeFutebol();
+// ex073 ex73 = new ex073();
+// ex73.listaComTimesDeFutebol();
+
+// ex074 ex74 = new ex074();
+// ex74.MairEmenorValorEmLista();
+
+ex075 ex75 = new ex075();
+ex75.AnaliseDeDadosEmLista();
