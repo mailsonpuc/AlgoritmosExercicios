@@ -1,4 +1,7 @@
-﻿using app.Models;
+﻿
+using app.Models;
+
+
 
 Console.Clear();
 
@@ -231,5 +234,24 @@ Console.Clear();
 // ex076 ex76 = new ex076();
 // ex76.listadePrecoComTupla();
 
-ex077 ex77 = new ex077();
-ex77.ContandoVogais();
+// ex077 ex77 = new ex077();
+// ex77.ContandoVogais();
+
+// ex078 ex78 = new ex078();
+// ex78.MaiorEmenorValoresNaLista();
+
+// ex079 ex79 = new ex079();
+// ex79.ValoresUnicosEmUmaLista();
+
+// ex080 ex80 = new ex080();
+// ex80.ListaOrdenadaSemRepeticao();
+
+// ex081 ex81 = new ex081();
+// ex81.ExtraindoDadosDeUmaLista();
+
+// ex082 ex82 = new ex082();
+// ex82.DividindoValoresEmVariasListas();
+
+ex083 ex83 = new ex083();
+ex83.ValidandoExpresaoNumerica();
+
