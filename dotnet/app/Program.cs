@@ -252,6 +252,17 @@ Console.Clear();
 // ex082 ex82 = new ex082();
 // ex82.DividindoValoresEmVariasListas();
 
-ex083 ex83 = new ex083();
-ex83.ValidandoExpresaoNumerica();
+// ex083 ex83 = new ex083();
+// ex83.ValidandoExpresaoNumerica();
 
+// ex084 ex84 = new ex084();
+// ex84.ListaCompletaEanaliseDeDados();
+
+// ex085 ex85 = new ex085();
+// ex85.ListaComParesEimpares();
+
+// ex086 ex86 = new ex086();
+// ex86.MatrizEmCsharp();
+
+ex087 ex87 = new ex087();
+ex87.Test();
