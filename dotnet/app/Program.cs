@@ -264,5 +264,17 @@ Console.Clear();
 // ex086 ex86 = new ex086();
 // ex86.MatrizEmCsharp();
 
-ex087 ex87 = new ex087();
-ex87.MaisSobreMatrizes();
+// ex087 ex87 = new ex087();
+// ex87.MaisSobreMatrizes();
+
+// ex088 ex88 = new ex088();
+// ex88.JogarNaMegaSena();
+
+// ex089 ex89 = new ex089();
+// ex89.BoletimComLista();
+
+// ex090 ex90 = new ex090();
+// ex90.DicionarioEmCshsarp();
+
+ex091 ex91 = new ex091();
+ex91.JogandoDadosEmCsharp();
