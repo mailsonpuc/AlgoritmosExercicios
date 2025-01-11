@@ -265,4 +265,4 @@ Console.Clear();
 // ex86.MatrizEmCsharp();
 
 ex087 ex87 = new ex087();
-ex87.Test();
+ex87.MaisSobreMatrizes();
