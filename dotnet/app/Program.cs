@@ -1,5 +1,8 @@
-﻿
+﻿using System.Text.Json;
 using app.Models;
+using System;
+using System.Net.Http;
+using System.Threading.Tasks;
 
 
 
@@ -276,5 +279,11 @@ Console.Clear();
 // ex090 ex90 = new ex090();
 // ex90.DicionarioEmCshsarp();
 
-ex091 ex91 = new ex091();
-ex91.JogandoDadosEmCsharp();
+// ex091 ex91 = new ex091();
+// ex91.JogandoDadosEmCsharp();
+
+// ex092 ex92 = new ex092();
+// ex92.CadastroDeTrabalhadorEmCsharp();
+
+ex093 ex93 = new ex093();
+ex93.TestaAPi();

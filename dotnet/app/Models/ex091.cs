@@ -22,7 +22,10 @@ namespace app.Models
             var ordenadoPorValores = jogo.OrderBy(par => par.Value);
 
             // Exibir o dicionário ordenado
-            Console.WriteLine("Ordenado por valores (crescente):");
+            Console.WriteLine("-".PadLeft(40, '-'));
+            Console.WriteLine("jogo de dados".ToUpper());
+            Console.WriteLine("-".PadLeft(40, '-'));
+
             foreach (var item in ordenadoPorValores)
             {
 
