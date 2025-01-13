@@ -300,5 +300,11 @@ Console.Clear();
 // ex097 ex97 = new ex097();
 // ex97.UmPrintEspecial();
 
-ex098 ex98 = new ex098();
-ex98.FuncaoDeContador();
+// ex098 ex98 = new ex098();
+// ex98.FuncaoDeContador();
+
+// ex099 ex99 = new ex099();
+// ex99.FuncaoQueDescobreOMaior();
+
+ex100 ex100 = new ex100();
+ex100.FuncaoParaSortearEsomar();
