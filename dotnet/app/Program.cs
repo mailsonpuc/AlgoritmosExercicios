@@ -306,5 +306,11 @@ Console.Clear();
 // ex099 ex99 = new ex099();
 // ex99.FuncaoQueDescobreOMaior();
 
-ex100 ex100 = new ex100();
-ex100.FuncaoParaSortearEsomar();
+// ex100 ex100 = new ex100();
+// ex100.FuncaoParaSortearEsomar();
+
+// ex101 ex101 = new ex101();
+// ex101.funcaoParaVotacao();
+
+ex102 ex102 = new ex102();
+ex102.FuncaoParaFatorial();
