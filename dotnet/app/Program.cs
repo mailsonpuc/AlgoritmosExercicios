@@ -285,5 +285,20 @@ Console.Clear();
 // ex092 ex92 = new ex092();
 // ex92.CadastroDeTrabalhadorEmCsharp();
 
-ex093 ex93 = new ex093();
-ex93.TestaAPi();
+// ex093 ex93 = new ex093();
+// ex93.TestaAPi();
+
+// ex094 ex94 = new ex094();
+// ex94.UnindoDicionarioElista();
+
+// ex095 ex95 = new ex095();
+// ex95.FuncaoCalculadora();
+
+// ex096 ex96 = new ex096();
+// ex96.FuncaoQueCalculaArea();
+
+// ex097 ex97 = new ex097();
+// ex97.UmPrintEspecial();
+
+ex098 ex98 = new ex098();
+ex98.FuncaoDeContador();
