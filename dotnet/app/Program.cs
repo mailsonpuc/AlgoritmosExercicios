@@ -312,5 +312,12 @@ Console.Clear();
 // ex101 ex101 = new ex101();
 // ex101.funcaoParaVotacao();
 
-ex102 ex102 = new ex102();
-ex102.FuncaoParaFatorial();
+// ex102 ex102 = new ex102();
+// ex102.FuncaoParaFatorial();
+
+// ex103  ex103 = new ex103();
+// ex103.FuncaoParOuImpar();
+
+ex104 ex104 = new ex104();
+ex104.funcaoLeiaint();
+
