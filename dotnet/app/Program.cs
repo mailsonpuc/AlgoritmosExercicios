@@ -318,6 +318,8 @@ Console.Clear();
 // ex103  ex103 = new ex103();
 // ex103.FuncaoParOuImpar();
 
-ex104 ex104 = new ex104();
-ex104.funcaoLeiaint();
+// ex104 ex104 = new ex104();
+// ex104.funcaoLeiaint();
 
+ex105 ex105 = new ex105();
+ex105.ExercitandoFuncao();
