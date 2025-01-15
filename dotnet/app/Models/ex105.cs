@@ -25,22 +25,22 @@ namespace app.Models
 
 
 
-        static double aumenta(double preco, double taxa)
+        public double aumenta(double preco, double taxa)
         {
             return preco + (preco * taxa / 100);
         }
 
-        static double diminuir(double preco, double taxa)
+        public double diminuir(double preco, double taxa)
         {
             return preco - (preco * taxa / 100);
         }
 
-        static double dobro(double preco)
+        public double dobro(double preco)
         {
             return preco * 2;
         }
 
-        static double metade(double preco)
+        public double metade(double preco)
 
         {
             return preco / 2;

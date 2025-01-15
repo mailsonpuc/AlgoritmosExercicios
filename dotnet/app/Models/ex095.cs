@@ -1,5 +1,7 @@
 
 
+using Xunit;
+
 namespace app.Models
 {
     public class ex095
@@ -29,29 +31,31 @@ namespace app.Models
         }
 
 
-        static int Soma(int n1, int n2)
+        public int Soma(int n1, int n2)
         {
             return n1 + n2;
         }
 
-        static int Subtrai(int n1, int n2)
+        public int Subtrai(int n1, int n2)
         {
             return n1 - n2;
         }
-        static int Multiplica(int n1, int n2)
+        public int Multiplica(int n1, int n2)
         {
             return n1 * n2;
         }
 
-        static int Divide(int n1, int n2)
+        public int Divide(int n1, int n2)
         {
             return n1 / n2;
         }
 
-        static void Linha()
+        public void Linha()
         {
             Console.WriteLine("-".PadLeft(40, '-'));
         }
+
+
 
     }
 }

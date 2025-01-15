@@ -12,9 +12,9 @@ namespace app.Models
         }
 
 
-        static object ParOuImpar(int num)
+        public object ParOuImpar(int num)
         {
-            string resultado = (num %2==0) ? $"O Número {num} é PAR" : $"O Número {num} é IMPAR";
+            string resultado = (num % 2 == 0) ? $"O Número {num} é PAR" : $"O Número {num} é IMPAR";
             return resultado;
         }
 
